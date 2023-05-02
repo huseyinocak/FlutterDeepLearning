@@ -1,0 +1,44 @@
+## Content
+
+- [x] Flutter Introduction
+- [x] Flutter Install and Flutter CLI
+- [ ] Dart and Flutter Difference
+- [ ] Dart Language
+  - [ ] Variables and Data Types
+  - [ ] Dart Syntax
+  - [ ] Null Safety
+  - [ ] final, Const and late notions
+  - [ ] String types and interpolation
+  - [ ] List, Set, Map and Generic
+  - [ ] Statements and Loops (if/else, Swich, for, do while)
+  - [ ] Functions
+  - [ ] Exception and Throw
+  - [ ] Class and Construction
+  - [ ] Getter and Setter
+  - [ ] Expression Functions
+  - [ ] Static class and Factor Method
+  - [ ] Inheritance, Poliymorhism, Encapsulation and Abstraction
+  - [ ] Asynchronous (async, await, Future and Stream)
+- [ ] Widget Architectural - Stateless and Statesfull widget
+- [ ] State Management
+- [ ] Using Widget
+- [ ] Navigation
+- [ ] Using JSON
+- [ ] Plugin and Package
+  - [ ] Using Package 
+    - Pub.dev
+    - Path
+    - Github
+  - [ ] Provider Package
+  - [ ] Shared Preference Package
+  - [ ] Sqflite Package
+  - [ ] Http
+  - [ ] Google Fonts
+- [ ] Form and Validate
+- [ ] Bloc Pattern
+- [ ] Firebase
+- [ ] Locatization
+- [ ] Security and Authentication
+- [ ] Animations
+- [ ] N-Layer Architectural
+- [ ] Testing
