@@ -20,7 +20,7 @@
 1. [Flutter Nedir?](#what_is_flutter)
 2. [Flutter öğrenmek için gerekli temel bilgiler](#preq)
 3. [Donanım Gereksinimleri](#limitations)
-4. [Flutter için VS Code Extensions](#VSCodeExtensionsforFlutter)
+4. [Flutter için VS Code Extensions](#vscodeextensionsforflutter)
 
 ## ☆ Flutter Nedir **?**  <a name = "what_is_flutter"></a>
 
@@ -52,7 +52,7 @@ Temel seviyeden ileri seviyeye olarak devam edileceği için bu gereksinim sadec
 
 ---
 
-## ⚙️ Flutter için VS Code Extensions <a name = "VSCodeExtensionsforFlutter"></a>
+## ⚙️ Flutter için VS Code Extensions <a name = "vscodeextensionsforflutter"></a>
 
 ### Dart Programa Dili için :
 Dart Code, VS Code'u Dart programlama dili desteğiyle genişletir ve Flutter mobil uygulamalarını etkili bir şekilde düzenlemek, yeniden düzenlemek, çalıştırmak ve yeniden yüklemek için araçlar sağlar.
