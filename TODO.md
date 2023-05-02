@@ -1,7 +1,7 @@
 ## Content
 
 - [x] [Flutter Introduction](./Flutter%20Introduction/README.md)
-- [x] Flutter Install and Flutter CLI
+- [x] [Flutter CLI](./Flutter%20CLI/README.md)
 - [ ] Dart and Flutter Difference
 - [ ] Dart Language
   - [ ] Variables and Data Types
