@@ -47,6 +47,8 @@ There are no prerequisites other than the following institutions. It just takes 
 
 - [Visual Studio](https://visualstudio.microsoft.com/downloads/) - Visual Studio IDE
 
+- [Git for Windows](https://git-scm.com/download/win) - Git Windows install
+
 You can download flutter sdk with zip extension and unzip it to the location you specify.
 
 ```
