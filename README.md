@@ -8,7 +8,7 @@
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
+[![GitHub Issues]( The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
@@ -24,9 +24,9 @@
 
 - [About](#about)
 - [Getting Started](#getting_started)
-- [Content](../TODO.md)
+- [Content](./TODO.md)
 - [Authors](#authors)
-- [Acknowledgments](#acknowledgement)
+<!-- - [Acknowledgments](#acknowledgement) -->
 
 ## 🛺 About <a name = "about"></a>
 
@@ -101,10 +101,10 @@ If you encounter a problem with android licenses, just write the cmd code below.
 
 - [@huseyinocak](https://github.com/huseyinocak) - Idea & Initial work
 
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
+See also the list of [contributors]https://github.com/huseyinocak/FlutterDeepLearning/contributors) who participated in this project.
 
-## 🎉 Acknowledgements <a name = "acknowledgement"></a>
+<!-- ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
 - Hat tip to anyone whose code was used
 - Inspiration
-- References
+- References -->
