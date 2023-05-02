@@ -28,13 +28,12 @@ Flutter, Google'ın tek bir kod tabanından güzel, yerel olarak derlenmiş, ço
 
 - Flutter kodu, herhangi bir cihazda hızlı performans için ARM veya Intel makine kodunun yanı sıra JavaScript'te derlenir.
 
-- Flutter, Google tarafından geliştirilen Nesne yönelimli progrmalama dili olan Dart dili yazılmıştır.
+- Flutter, Google tarafından geliştirilen nesne yönelimli progrmalama dili olan Dart dili yazılmıştır.
 
-- React Native'de bulunan Componentler Flutter'da widgetlar bulunmaktadır.
+- React Native'de bulunan Componentler Flutter'da widget ile yapılmaktadır.
 
-- Modern Mobil iOS ve Android mobil , web ve Windows, macOS ve Linux için masaüstü uygulamaları geliştirebilirsiniz.
+- Modern iOS ve Android mobil, web ve Windows, macOS ve Linux için masaüstü uygulamaları geliştirebilirsiniz.
 - Biz daha çok mobil uygulamalar üzerinde duracağız.
-
 ---
 
 ## 💡 Flutter öğrenmek için gerekli temel bilgiler <a name = "preq"></a>
