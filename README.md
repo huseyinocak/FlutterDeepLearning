@@ -8,8 +8,8 @@
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues]( The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
+[![GitHub Issues](https://img.shields.io/github/issues/huseyinocak/FlutterDeepLearning.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/huseyinocak/FlutterDeepLearning.svg)](https://github.com/huseyinocak/FlutterDeepLearning/pulls)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 </div>
@@ -31,6 +31,8 @@
 ## 🛺 About <a name = "about"></a>
 
 Includes deep learning for ios and android operating systems app development with Flutter.
+
+---
 
 ## 🍿 Getting Started <a name = "getting_started"></a>
 
@@ -73,7 +75,7 @@ C:\Program Files (x86)\Android\android-sdk
 Now we can check if we can access flutter.For this, let's write the following code in the command prompt.
 
 ``` cmd
->flutter doctor
+> flutter doctor
 ```
 As a result, we should encounter a situation like the following.
 ``` cmd
@@ -94,14 +96,13 @@ If you encounter a problem with android licenses, just write the cmd code below.
 >flutter doctor --android-licenses
 ```
 
-
-### Installing
+---
 
 ## ✍️ Authors <a name = "authors"></a>
 
 - [@huseyinocak](https://github.com/huseyinocak) - Idea & Initial work
 
-See also the list of [contributors]https://github.com/huseyinocak/FlutterDeepLearning/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/huseyinocak/FlutterDeepLearning/contributors) who participated in this project.
 
 <!-- ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
