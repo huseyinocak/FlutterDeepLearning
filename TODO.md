@@ -4,7 +4,7 @@
 - [x] [Flutter CLI](./Flutter%20CLI/README.md)
 - [x] [Dart and Flutter Difference](./Flutter%20and%20Dart%20Difference/README.md)
 - [ ] Dart Language
-  - [ ] Variables and Data Types
+  - [x] [Variables and Data Types](./DartVariablesandDataTypes/README.md)
   - [ ] Dart Syntax
   - [ ] Null Safety
   - [ ] final, Const and late notions
