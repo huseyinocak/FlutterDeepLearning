@@ -8,13 +8,7 @@
 
 1. [String Veritipi](#stringtype)
 2. [Değişken ile bağlamak](#variablesbuild)
-3. [doctor komutu](#doctor)
-4. [devices komutu](#devices)
-5. [create komutu](#create)
-6. [run komutu](#run)
-7. [build komutu](#build)
-8. [pub komutu](#pub)
-9. [analyze komutu](#analyze)
+3. [String Methodları](#stringmethods)
 
 ## String Veritipi <a name = "stringtype"></a>
 
@@ -48,7 +42,7 @@ print(product);
 ```
 Aynı ifade yukarıdaki gibi de yazılabilirdi. ilk ifadenin daha temiz ve okunabilir gözükmesi sebebiyle ilk tercihimiz olacaktır.
 
-### Prerequisites
+## String Methodları <a name = "stringmethods"></a>
 
 What things you need to install the software and how to install them.
 
