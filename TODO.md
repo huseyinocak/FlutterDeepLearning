@@ -5,7 +5,7 @@
 - [x] [Dart and Flutter Difference](./Flutter%20and%20Dart%20Difference/README.md)
 - [ ] Dart Language
   - [x] [Variables and Data Types](./DartVariablesandDataTypes/README.md)
-  - [ ] String types and interpolation
+  - [x] [String types and interpolation](./StringTypeInterpolations/README.md)
   - [ ] List, Set, Map and Generic
   - [ ] Statements and Loops (if/else, Swich, for, do while)
   - [ ] Functions
