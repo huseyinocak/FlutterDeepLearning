@@ -44,7 +44,7 @@ Aynı ifade yukarıdaki gibi de yazılabilirdi. ilk ifadenin daha temiz ve okuna
 
 ## String Methodları <a name = "stringmethods"></a>
 
-What things you need to install the software and how to install them.
+<br>
 
 ```dart
 //product metni : Apple Watch from 80$
