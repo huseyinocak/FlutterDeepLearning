@@ -3,7 +3,7 @@
 - [x] [Flutter Introduction](./Flutter%20Introduction/README.md)
 - [x] [Flutter CLI](./Flutter%20CLI/README.md)
 - [x] [Dart and Flutter Difference](./Flutter%20and%20Dart%20Difference/README.md)
-- [x] Dart Language
+- <detais> <summary> [x] Dart Language</summary>
   - [x] Variables and Data Types
   - [x] String types and interpolation
   - [x] List, Set, Map and Generic
@@ -16,6 +16,8 @@
   - [x] Static class and Factor Method
   - [x] Inheritance, Poliymorhism, Encapsulation and Abstraction
   - [x] Asynchronous (async, await, Future and Stream)
+    </detais>
+  
 - [ ] Widget Architectural - Stateless and Statesfull widget
 - [ ] State Management
 - [ ] Using Widget
