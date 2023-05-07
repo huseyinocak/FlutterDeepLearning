@@ -4,18 +4,18 @@
 - [x] [Flutter CLI](./Flutter%20CLI/README.md)
 - [x] [Dart and Flutter Difference](./Flutter%20and%20Dart%20Difference/README.md)
 - [ ] Dart Language
-  - [x] [Variables and Data Types](./DartVariablesandDataTypes/README.md)
-  - [x] [String types and interpolation](./StringTypeInterpolations/README.md)
-  - [x] [List, Set, Map and Generic](./ListSetMapandGeneric/ListSetMapandGeneric.md)
-  - [ ] Statements and Loops (if/else, Swich, for, do while)
-  - [ ] Functions
-  - [ ] Exception and Throw
-  - [ ] Class and Construction
-  - [ ] Getter and Setter
-  - [ ] Expression Functions
-  - [ ] Static class and Factor Method
-  - [ ] Inheritance, Poliymorhism, Encapsulation and Abstraction
-  - [ ] Asynchronous (async, await, Future and Stream)
+  - [x] Variables and Data Types
+  - [x] String types and interpolation
+  - [x] List, Set, Map and Generic
+  - [x] Statements and Loops (if/else, Swich, for, do while)
+  - [x] Functions
+  - [x] Exception and Throw
+  - [x] Class and Construction
+  - [x] Getter and Setter
+  - [x] Expression Functions
+  - [x] Static class and Factor Method
+  - [x] Inheritance, Poliymorhism, Encapsulation and Abstraction
+  - [x] Asynchronous (async, await, Future and Stream)
 - [ ] Widget Architectural - Stateless and Statesfull widget
 - [ ] State Management
 - [ ] Using Widget
