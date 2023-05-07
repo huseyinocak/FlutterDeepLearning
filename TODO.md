@@ -3,7 +3,7 @@
 - [x] [Flutter Introduction](./Flutter%20Introduction/README.md)
 - [x] [Flutter CLI](./Flutter%20CLI/README.md)
 - [x] [Dart and Flutter Difference](./Flutter%20and%20Dart%20Difference/README.md)
-- [ ] Dart Language
+- [x] Dart Language
   - [x] Variables and Data Types
   - [x] String types and interpolation
   - [x] List, Set, Map and Generic
