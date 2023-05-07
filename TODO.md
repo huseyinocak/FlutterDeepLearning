@@ -6,7 +6,7 @@
 - [ ] Dart Language
   - [x] [Variables and Data Types](./DartVariablesandDataTypes/README.md)
   - [x] [String types and interpolation](./StringTypeInterpolations/README.md)
-  - [ ] List, Set, Map and Generic
+  - [ ] [List, Set, Map and Generic](./ListSetMapandGeneric/ListSetMapandGeneric.md)
   - [ ] Statements and Loops (if/else, Swich, for, do while)
   - [ ] Functions
   - [ ] Exception and Throw
