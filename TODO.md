@@ -3,7 +3,7 @@
 - [x] [Flutter Introduction](./Flutter%20Introduction/README.md)
 - [x] [Flutter CLI](./Flutter%20CLI/README.md)
 - [x] [Dart and Flutter Difference](./Flutter%20and%20Dart%20Difference/README.md)
-- <details><summary>[x] Dart Language</summary>
+- <details><summary> [x] Dart Language</summary>
    <p>
    
       - [x] Variables and Data Types
